@@ -2,9 +2,12 @@
 
 Entry-Level Cybersecurity Analyst | IT Support | Network Security Enthusiast
 
-Location Port Harcourt, Nigeria  
+Location: Port Harcourt, Nigeria 
+
 Email Address:  [agburuibuemmanuel@gmail.com]
+
 LinkedIn:   [https://www.linkedin.com/in/ibu-emmanuel-agburu/]
+
 GitHub Portfolio:   [https://github.com/Ibu-Emmanuel-Agburu/cybersecurity-portfolio/]
 
 ---
